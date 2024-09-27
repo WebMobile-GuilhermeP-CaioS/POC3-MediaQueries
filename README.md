@@ -59,9 +59,11 @@ A Media Query para impressão (print) permite diferenciar os estilos das sua pá
 Demonstração:
 
 Tela de Computador:
+
 ![image](https://github.com/user-attachments/assets/362178d3-b5bb-402c-b610-eccb94c389aa)
 
 Print:
+
 ![image](https://github.com/user-attachments/assets/1ad92ba3-bb76-4806-aee9-41233b195c33)
 
 
@@ -160,12 +162,15 @@ Por fim, definimos as telas de tables com a Media Query para tamanho mínimo e m
 Demonstração:
 
 Tela de Computador:
+
 ![image](https://github.com/user-attachments/assets/362178d3-b5bb-402c-b610-eccb94c389aa)
 
 Tela de Celular:
+
 ![image](https://github.com/user-attachments/assets/365fa8fe-2e4d-4759-a051-383ee9a2e52c)
 
 Tela de Tablet:
+
 ![image](https://github.com/user-attachments/assets/fb8407e8-1a78-4ff0-a0cc-d60b6b8b51e7)
 
 ### Disposição dos dispositivos (landscape e portrait):
@@ -186,7 +191,9 @@ A Media Query para disposição dos dispositivos (orientation:) permite diferenc
 Demonstração:
 
 Landscape:
+
 ![image](https://github.com/user-attachments/assets/bf88a739-6ea9-41b7-8576-4dd97bcde1f9)
 
 Portrait:
+
 ![image](https://github.com/user-attachments/assets/57d33fd0-f98f-45d0-be01-faa1771fd897)
